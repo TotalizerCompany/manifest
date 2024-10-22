@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Tracking -->
+  <remote name="track" fetch="https://github.com" />
+  
+<!-- Trees -->
+  <project path="Totalizer-App" name="TotalizerCompany/Totalizer-App" remote="track" revision="main" />
+  <project path="CartApp" name="TotalizerCompany/Cart-App" remote="track" revision="main" />
+
+</manifest>
